@@ -1,5 +1,7 @@
 /*
-  64 NeoPixel Matrix PCB Frame - front loading friction-fit version
+  Spidermaf  64 NeoPixel Matrix PCB Frame - front loading friction-fit version
+  reference video: 
+  https://www.youtube.com/watch?v=cWp9GtUtEwg
 
   PCB: 65.4 x 66.5 mm
   Outer frame: 69.5 x 69.5 mm
