@@ -1,5 +1,7 @@
 /*
-  NeoPixel Matrix Cube
+  Spidermaf NeoPixel Matrix Cube
+  reference video: 
+  https://www.youtube.com/watch?v=cWp9GtUtEwg
 
   - Six overlapping push-fit face frames
   - Faces moved 3.5mm towards cube centre
